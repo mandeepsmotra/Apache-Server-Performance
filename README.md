@@ -6,7 +6,7 @@ We are having different section in our web portal like <b>Paying Guest</b>, <b>G
 
 Hoping that it will be short-out within 1 week.
 
-For more info pls get in touch on email @t bestornet dot com
+For more info pls get in touch on email @t bestonrent dot com
 
 mandeep singh
 
