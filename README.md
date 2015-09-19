@@ -1,4 +1,4 @@
-# learn-html-javascript
+# Pages performances issues using Helix 3
 Hi! We are working on <a href="http://bestonrent.com/" target="blank">http://bestonrent.com</a>; it's a real estate project and we are doing it in-house. For our easy we have created this repository to test our html and JavaScript examples.
 We are facing some javascript error and performance lag on our paying guest house page.
 
